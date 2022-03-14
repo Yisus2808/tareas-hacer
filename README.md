@@ -6,7 +6,7 @@ _Menu interactivo_
 
 ![Image text](https://i.postimg.cc/ZRxXrzBp/Captura.png)
 
-# Crear nuevas tareas
+ _Crear nuevas tareas_
 
 ![Image text](https://i.postimg.cc/fyWpCqmF/Captura2.png)
 
