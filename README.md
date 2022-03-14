@@ -4,7 +4,5 @@ Es una aplicacion para la asignación de tarea por hacer. Proporcionada en el cu
 
 
 ![Image text](https://i.postimg.cc/ZRxXrzBp/Captura.png)
-
-
-https://i.postimg.cc/fyWpCqmF/Captura2.png
-https://i.postimg.cc/BbhyV5Cv/Captura3.png
+![Image text](https://i.postimg.cc/fyWpCqmF/Captura2.png)
+![Image text](https://i.postimg.cc/BbhyV5Cv/Captura3.png)
