@@ -6,11 +6,11 @@ _Menu interactivo_
 
 ![Image text](https://i.postimg.cc/ZRxXrzBp/Captura.png)
 
-*Crear nuevas tareas*
+*Crear nuevas tareas
 
 ![Image text](https://i.postimg.cc/fyWpCqmF/Captura2.png)
 
--Mostrar listado de tareas-
+_Mostrar listado de tareas_
 
 ![Image text](https://i.postimg.cc/BbhyV5Cv/Captura3.png)
 
